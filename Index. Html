@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Anusha Devi | Portfolio</title>
+</head>
+<body>
+
+    <h1>Hi 👋 I'm Anusha Devi</h1>
+    <h2>BSc Computer Science Student</h2>
+
+    <h2>About Me</h2>
+    <p>
+        I am a BSc Computer Science student interested in Python,
+        Artificial Intelligence and Machine Learning.
+    </p>
+
+    <h2>Skills</h2>
+    <p>Python | HTML | MS Office | MS Excel</p>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Cybersecurity in Satellite Communication Networks</li>
+        <li>AI/ML Projects</li>
+        <li>AGI Project Ideas</li>
+    </ul>
+
+    <h2>Experience</h2>
+    <p>AI with Python Internship</p>
+
+    <h2>Hackathon</h2>
+    <p>Participated in National 36 Hours Hackathon</p>
+
+    <h2>Contact</h2>
+    <p>GitHub: Anusha7487</p>
+
+</body>
+</html>
