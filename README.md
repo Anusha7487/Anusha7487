@@ -19,7 +19,4 @@ Projects
 
 Connect with me
 GitHub: Anusha7487
- My Portfolio
-
-[View My Portfolio]
-(https://anusha7487.github.io/My-respo/)
+**My Portfolio:** [View My Portfolio](https://anusha7487.github.io/My-respo/)
